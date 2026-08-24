@@ -1,7 +1,7 @@
 # Spec: Prontidão de produção
 
 > feature: production-readiness
-> status: em-implementacao
+> status: auditada
 
 ## Contexto
 

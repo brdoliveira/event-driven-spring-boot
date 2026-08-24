@@ -1,13 +1,24 @@
 {
   "testCommand": "mvnw.cmd -q test",
-  "reporter": "tap",
+  "reporter": "exitcode",
   "testGlobs": [
     "**/src/test/java/**/*.java"
   ],
   "srcGlobs": [
-    "**/src/main/java/**/*.java",
-    "**/src/main/resources/**",
+    "README.md",
+    "mvnw",
+    "mvnw.cmd",
+    ".mvn/wrapper/maven-wrapper.properties",
+    ".github/workflows/ci.yml",
     "pom.xml",
-    "**/pom.xml"
+    "products-service/pom.xml",
+    "products-service/src/main/java/com/appsdeveloperblog/products/dto/ProductCreationRequest.java",
+    "payments-service/pom.xml",
+    "payments-service/src/main/java/com/appsdeveloperblog/payments/config/PaymentProcessorProperties.java",
+    "payments-service/src/main/java/com/appsdeveloperblog/payments/config/ApplicationConfig.java",
+    "payments-service/src/main/java/com/appsdeveloperblog/payments/service/PaymentServiceImpl.java",
+    "payments-service/src/main/resources/application.properties",
+    "onpspec.config.json",
+    ".spec/constituicao.md"
   ]
 }
