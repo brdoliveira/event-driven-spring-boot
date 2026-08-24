@@ -17,6 +17,7 @@
     </parent>
 
     <modules>
+        <module>core</module>
         <module>orders-service</module>
         <module>products-service</module>
         <module>payments-service</module>
@@ -49,6 +50,13 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>
