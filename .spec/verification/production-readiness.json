@@ -1,0 +1,11 @@
+{
+  "feature": "production-readiness",
+  "timestamp": "2026-08-24T02:33:02.415Z",
+  "gitRev": "e37cc11",
+  "command": "mvnw.cmd -q test",
+  "reporter": "tap",
+  "exitCode": 1,
+  "testsParsed": 0,
+  "results": {},
+  "principles": {}
+}

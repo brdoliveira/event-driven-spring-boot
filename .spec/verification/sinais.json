@@ -5,667 +5,667 @@
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-readiness",
       "ref": "T-001",
-      "ocorrencias": 4,
+      "ocorrencias": 8,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_INEXISTENTE::production-readiness::T-002": {
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-readiness",
       "ref": "T-002",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_INEXISTENTE::production-readiness::T-003": {
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-readiness",
       "ref": "T-003",
-      "ocorrencias": 3,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_INEXISTENTE::production-readiness::T-004": {
       "codigo": "ARQUIVO_INEXISTENTE",
       "feature": "production-readiness",
       "ref": "T-004",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "AC_SEM_TESTE::production-readiness::AC-001": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-readiness",
       "ref": "AC-001",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "AC_SEM_TESTE::production-readiness::AC-002": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-readiness",
       "ref": "AC-002",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "AC_SEM_TESTE::production-readiness::AC-003": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-readiness",
       "ref": "AC-003",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "AC_SEM_TESTE::production-readiness::AC-004": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-readiness",
       "ref": "AC-004",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "AC_SEM_TESTE::production-readiness::AC-005": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-readiness",
       "ref": "AC-005",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "AC_SEM_TESTE::production-readiness::AC-006": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-readiness",
       "ref": "AC-006",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "AC_SEM_TESTE::production-readiness::AC-007": {
       "codigo": "AC_SEM_TESTE",
       "feature": "production-readiness",
       "ref": "AC-007",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/pom.xml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/pom.xml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/CreditCardProcessRequest.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/CreditCardProcessRequest.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/Order.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/Order.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/Payment.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/Payment.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/Product.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/Product.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/Shipment.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/Shipment.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.988Z",
-      "ultimaVez": "2026-08-24T02:15:04.988Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/commands/ApproveOrderCommand.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/commands/ApproveOrderCommand.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/commands/CancelProductReservationCommand.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/commands/CancelProductReservationCommand.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/commands/ProcessPaymentCommand.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/commands/ProcessPaymentCommand.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/commands/ProductReservationCancelledEvent.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/commands/ProductReservationCancelledEvent.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/commands/RejectOrderCommand.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/commands/RejectOrderCommand.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/commands/ReserveProductCommand.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/commands/ReserveProductCommand.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/events/OrderApprovedEvent.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/events/OrderApprovedEvent.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/events/OrderCreatedEvent.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/events/OrderCreatedEvent.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/events/PaymentFailedEvent.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/events/PaymentFailedEvent.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/events/PaymentProcessedEvent.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/events/PaymentProcessedEvent.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/events/ProductReservationFailedEvent.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/events/ProductReservationFailedEvent.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/dto/events/ProductReservedEvent.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/dto/events/ProductReservedEvent.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/exceptions/CreditCardProcessorUnavailableException.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/exceptions/CreditCardProcessorUnavailableException.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/exceptions/ProductInsufficientQuantityException.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/exceptions/ProductInsufficientQuantityException.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::core/src/main/java/com/appsdeveloperblog/core/types/OrderStatus.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "core/src/main/java/com/appsdeveloperblog/core/types/OrderStatus.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::credit-card-processor-service/pom.xml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "credit-card-processor-service/pom.xml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::credit-card-processor-service/src/main/java/com/appsdeveloperblog/ccps/CreditCardProcessorApplication.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "credit-card-processor-service/src/main/java/com/appsdeveloperblog/ccps/CreditCardProcessorApplication.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::credit-card-processor-service/src/main/java/com/appsdeveloperblog/ccps/web/controller/CreditCardProcessorController.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "credit-card-processor-service/src/main/java/com/appsdeveloperblog/ccps/web/controller/CreditCardProcessorController.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.946Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::credit-card-processor-service/src/main/resources/application.properties": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "credit-card-processor-service/src/main/resources/application.properties",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/pom.xml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/pom.xml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/OrdersServiceApplication.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/OrdersServiceApplication.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/config/KafkaConfig.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/config/KafkaConfig.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/dao/jpa/entity/OrderEntity.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/dao/jpa/entity/OrderEntity.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/dao/jpa/entity/OrderHistoryEntity.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/dao/jpa/entity/OrderHistoryEntity.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/dao/jpa/repository/OrderHistoryRepository.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/dao/jpa/repository/OrderHistoryRepository.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/dao/jpa/repository/OrderRepository.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/dao/jpa/repository/OrderRepository.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/dto/CreateOrderRequest.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/dto/CreateOrderRequest.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/dto/CreateOrderResponse.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/dto/CreateOrderResponse.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/dto/OrderHistory.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/dto/OrderHistory.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/dto/OrderHistoryResponse.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/dto/OrderHistoryResponse.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/saga/OrderSaga.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/saga/OrderSaga.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/service/OrderHistoryService.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/service/OrderHistoryService.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/service/OrderHistoryServiceImpl.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/service/OrderHistoryServiceImpl.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/service/OrderService.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/service/OrderService.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/service/OrderServiceImpl.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/service/OrderServiceImpl.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/service/handler/OrderCommandsHandler.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/service/handler/OrderCommandsHandler.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/java/com/appsdeveloperblog/orders/web/controller/OrdersController.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/java/com/appsdeveloperblog/orders/web/controller/OrdersController.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::orders-service/src/main/resources/application.properties": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "orders-service/src/main/resources/application.properties",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/pom.xml": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/pom.xml",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/src/main/java/com/appsdeveloperblog/payments/PaymentsServiceApplication.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/src/main/java/com/appsdeveloperblog/payments/PaymentsServiceApplication.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/src/main/java/com/appsdeveloperblog/payments/config/KafkaConfig.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/src/main/java/com/appsdeveloperblog/payments/config/KafkaConfig.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/src/main/java/com/appsdeveloperblog/payments/dao/jpa/entity/PaymentEntity.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/src/main/java/com/appsdeveloperblog/payments/dao/jpa/entity/PaymentEntity.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/src/main/java/com/appsdeveloperblog/payments/dao/jpa/repository/PaymentRepository.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/src/main/java/com/appsdeveloperblog/payments/dao/jpa/repository/PaymentRepository.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/src/main/java/com/appsdeveloperblog/payments/service/CreditCardProcessorRemoteService.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/src/main/java/com/appsdeveloperblog/payments/service/CreditCardProcessorRemoteService.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/src/main/java/com/appsdeveloperblog/payments/service/CreditCardProcessorRemoteServiceImpl.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/src/main/java/com/appsdeveloperblog/payments/service/CreditCardProcessorRemoteServiceImpl.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/src/main/java/com/appsdeveloperblog/payments/service/PaymentService.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/src/main/java/com/appsdeveloperblog/payments/service/PaymentService.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::payments-service/src/main/java/com/appsdeveloperblog/payments/service/handler/PaymentsCommandsHandler.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "payments-service/src/main/java/com/appsdeveloperblog/payments/service/handler/PaymentsCommandsHandler.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/ProductsServiceApplication.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/ProductsServiceApplication.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/config/KafkaConfig.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/config/KafkaConfig.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/dao/jpa/entity/ProductEntity.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/dao/jpa/entity/ProductEntity.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/dao/jpa/repository/ProductRepository.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/dao/jpa/repository/ProductRepository.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/dto/ProductCreationResponse.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/dto/ProductCreationResponse.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/service/ProductService.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/service/ProductService.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/service/ProductServiceImpl.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/service/ProductServiceImpl.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/service/handler/ProductCommandsHandler.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/service/handler/ProductCommandsHandler.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/java/com/appsdeveloperblog/products/web/controller/ProductsController.java": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/java/com/appsdeveloperblog/products/web/controller/ProductsController.java",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     },
     "ARQUIVO_ORFAO::—::products-service/src/main/resources/application.properties": {
       "codigo": "ARQUIVO_ORFAO",
       "feature": "—",
       "ref": "products-service/src/main/resources/application.properties",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T02:15:04.989Z",
-      "ultimaVez": "2026-08-24T02:15:04.989Z",
-      "gitRev": "25a7745"
+      "ultimaVez": "2026-08-24T02:33:02.947Z",
+      "gitRev": "e37cc11"
     }
   }
 }
