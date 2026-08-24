@@ -1,0 +1,132 @@
+{
+  "runId": "event-driven-spring-boot-production-readiness-mt6mf59e",
+  "feature": "production-readiness",
+  "agent": "codex",
+  "modo": "paralelo",
+  "paralelizar": [
+    "T-001",
+    "T-002",
+    "T-003",
+    "T-004"
+  ],
+  "modeloForcado": null,
+  "esforcoForcado": null,
+  "geradoEm": "2026-08-24 02:32",
+  "branchTrabalho": "spec/production-readiness",
+  "baseDir": ".spec/features/production-readiness",
+  "specDir": ".spec",
+  "repoName": "event-driven-spring-boot",
+  "logsDir": "../onp-worktrees/event-driven-spring-boot-production-readiness-logs",
+  "ondas": [
+    [
+      "faixa-1",
+      "faixa-2",
+      "faixa-3"
+    ],
+    [
+      "faixa-4"
+    ]
+  ],
+  "faixas": [
+    {
+      "id": "faixa-1",
+      "branch": "spec/production-readiness-faixa-1",
+      "worktree": "../onp-worktrees/event-driven-spring-boot-production-readiness-faixa-1",
+      "tarefas": [
+        {
+          "id": "T-001",
+          "titulo": "Tornar o build reproduzível e contínuo",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "pom.xml",
+            "mvnw",
+            "mvnw.cmd",
+            ".mvn/wrapper/maven-wrapper.properties",
+            ".github/workflows/ci.yml",
+            "README.md",
+            "onpspec.config.json",
+            ".spec/constituicao.md"
+          ],
+          "refs": [
+            "US-001",
+            "AC-001"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-2",
+      "branch": "spec/production-readiness-faixa-2",
+      "worktree": "../onp-worktrees/event-driven-spring-boot-production-readiness-faixa-2",
+      "tarefas": [
+        {
+          "id": "T-002",
+          "titulo": "Corrigir e testar o contrato de criação de produtos",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "products-service/pom.xml",
+            "products-service/src/main/java/com/appsdeveloperblog/products/dto/ProductCreationRequest.java",
+            "products-service/src/test/java/com/appsdeveloperblog/products/web/controller/ProductsControllerTest.java"
+          ],
+          "refs": [
+            "US-002",
+            "AC-002",
+            "AC-003"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-3",
+      "branch": "spec/production-readiness-faixa-3",
+      "worktree": "../onp-worktrees/event-driven-spring-boot-production-readiness-faixa-3",
+      "tarefas": [
+        {
+          "id": "T-003",
+          "titulo": "Externalizar e limitar a integração de pagamentos",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "high",
+          "arquivos": [
+            "payments-service/src/main/java/com/appsdeveloperblog/payments/config/PaymentProcessorProperties.java",
+            "payments-service/src/main/java/com/appsdeveloperblog/payments/config/ApplicationConfig.java",
+            "payments-service/src/main/java/com/appsdeveloperblog/payments/service/PaymentServiceImpl.java",
+            "payments-service/src/main/resources/application.properties",
+            "payments-service/src/test/java/com/appsdeveloperblog/payments/config/ApplicationConfigTest.java",
+            "payments-service/src/test/java/com/appsdeveloperblog/payments/service/PaymentServiceImplTest.java"
+          ],
+          "refs": [
+            "US-003",
+            "AC-004",
+            "AC-005"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-4",
+      "branch": "spec/production-readiness-faixa-4",
+      "worktree": "../onp-worktrees/event-driven-spring-boot-production-readiness-faixa-4",
+      "tarefas": [
+        {
+          "id": "T-004",
+          "titulo": "Provar o caminho compensatório da saga",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "orders-service/src/test/java/com/appsdeveloperblog/orders/saga/OrderSagaTest.java"
+          ],
+          "refs": [
+            "US-004",
+            "AC-006",
+            "AC-007"
+          ]
+        }
+      ]
+    }
+  ],
+  "sequenciais": [],
+  "concluidas": [],
+  "avisos": []
+}

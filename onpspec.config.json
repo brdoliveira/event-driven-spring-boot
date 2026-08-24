@@ -1,0 +1,13 @@
+{
+  "testCommand": "mvnw.cmd -q test",
+  "reporter": "tap",
+  "testGlobs": [
+    "**/src/test/java/**/*.java"
+  ],
+  "srcGlobs": [
+    "**/src/main/java/**/*.java",
+    "**/src/main/resources/**",
+    "pom.xml",
+    "**/pom.xml"
+  ]
+}
