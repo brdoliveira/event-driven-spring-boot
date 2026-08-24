@@ -12,8 +12,12 @@ public class ProductCreationRequest {
     @NotNull
     @Positive
     private BigDecimal price;
+    @NotNull
     @Positive
     private Integer quantity;
+
+    public ProductCreationRequest() {
+    }
 
     public ProductCreationRequest(String name, BigDecimal price, Integer quantity) {
         this.name = name;
