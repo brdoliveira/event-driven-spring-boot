@@ -671,73 +671,73 @@
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-001",
-      "ocorrencias": 4,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-24T23:15:02.081Z",
-      "ultimaVez": "2026-08-24T23:36:15.889Z",
-      "gitRev": "74616f0"
+      "ultimaVez": "2026-08-25T00:43:56.911Z",
+      "gitRev": "ef0d7a5"
     },
     "PROVA_FRACA::production-readiness::AC-002": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-002",
-      "ocorrencias": 4,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-24T23:36:15.890Z",
-      "gitRev": "74616f0"
+      "ultimaVez": "2026-08-25T00:43:56.912Z",
+      "gitRev": "ef0d7a5"
     },
     "PROVA_FRACA::production-readiness::AC-003": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-003",
-      "ocorrencias": 4,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-24T23:36:15.890Z",
-      "gitRev": "74616f0"
+      "ultimaVez": "2026-08-25T00:43:56.912Z",
+      "gitRev": "ef0d7a5"
     },
     "PROVA_FRACA::production-readiness::AC-004": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-004",
-      "ocorrencias": 4,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-24T23:36:15.890Z",
-      "gitRev": "74616f0"
+      "ultimaVez": "2026-08-25T00:43:56.912Z",
+      "gitRev": "ef0d7a5"
     },
     "PROVA_FRACA::production-readiness::AC-005": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-005",
-      "ocorrencias": 4,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-24T23:36:15.890Z",
-      "gitRev": "74616f0"
+      "ultimaVez": "2026-08-25T00:43:56.912Z",
+      "gitRev": "ef0d7a5"
     },
     "PROVA_FRACA::production-readiness::AC-006": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-006",
-      "ocorrencias": 4,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-24T23:36:15.890Z",
-      "gitRev": "74616f0"
+      "ultimaVez": "2026-08-25T00:43:56.912Z",
+      "gitRev": "ef0d7a5"
     },
     "PROVA_FRACA::production-readiness::AC-007": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-007",
-      "ocorrencias": 4,
+      "ocorrencias": 6,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-24T23:36:15.890Z",
-      "gitRev": "74616f0"
+      "ultimaVez": "2026-08-25T00:43:56.912Z",
+      "gitRev": "ef0d7a5"
     },
     "VERIFY_OBSOLETO::production-readiness::—": {
       "codigo": "VERIFY_OBSOLETO",
       "feature": "production-readiness",
       "ref": "—",
-      "ocorrencias": 1,
+      "ocorrencias": 2,
       "primeiraVez": "2026-08-24T23:15:22.555Z",
-      "ultimaVez": "2026-08-24T23:15:22.555Z",
-      "gitRev": "74616f0"
+      "ultimaVez": "2026-08-24T23:37:02.156Z",
+      "gitRev": "ef0d7a5"
     }
   }
 }
