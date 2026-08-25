@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "proximoId": 2,
+  "licoes": [
+    {
+      "id": "L-001",
+      "texto": "Em projetos Maven com reporter exitcode, complementar o gate ONP com a contagem dos relatórios Surefire e a geração dos relatórios JaCoCo.",
+      "chave": "PROVA_FRACA::em projetos maven com reporter exitcode complementar o gate onp com a contagem dos relatorios surefire e a geracao dos relatorios jacoco",
+      "sinal": "PROVA_FRACA",
+      "escopo": "qualidade",
+      "status": "candidata",
+      "recorrencia": 1,
+      "features": [
+        "testes-documentacao-operacional"
+      ],
+      "evidencias": [
+        {
+          "fonte": "AC-015",
+          "feature": "testes-documentacao-operacional",
+          "quando": "2026-08-25T02:04:15.453Z",
+          "gitRev": "1adeeed"
+        }
+      ],
+      "penalidades": 0,
+      "criadaEm": "2026-08-25T02:04:15.453Z",
+      "ultimaVez": "2026-08-25T02:04:15.453Z"
+    }
+  ]
+}
