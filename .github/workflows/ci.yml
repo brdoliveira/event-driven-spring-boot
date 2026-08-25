@@ -14,5 +14,11 @@ jobs:
           distribution: temurin
           java-version: '17'
           cache: maven
-      - name: Build and test
-        run: ./mvnw -B test
+      - name: Verify
+        run: ./mvnw -B verify
+      - name: Upload JaCoCo reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jacoco-reports
+          path: '**/target/site/jacoco/**'
