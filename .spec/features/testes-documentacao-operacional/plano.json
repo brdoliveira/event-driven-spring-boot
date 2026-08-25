@@ -1,0 +1,100 @@
+{
+  "runId": "event-driven-spring-boot-testes-documentacao-operacional-mt7ytkrt",
+  "feature": "testes-documentacao-operacional",
+  "agent": "codex",
+  "modo": "paralelo",
+  "paralelizar": null,
+  "modeloForcado": null,
+  "esforcoForcado": null,
+  "geradoEm": "2026-08-25 01:07",
+  "branchTrabalho": "spec/testes-documentacao-operacional",
+  "baseDir": ".spec/features/testes-documentacao-operacional",
+  "specDir": ".spec",
+  "repoName": "event-driven-spring-boot",
+  "logsDir": "../onp-worktrees/event-driven-spring-boot-testes-documentacao-operacional-logs",
+  "ondas": [
+    [
+      "faixa-1",
+      "faixa-2",
+      "faixa-3"
+    ]
+  ],
+  "faixas": [
+    {
+      "id": "faixa-1",
+      "branch": "spec/testes-documentacao-operacional-faixa-1",
+      "worktree": "../onp-worktrees/event-driven-spring-boot-testes-documentacao-operacional-faixa-1",
+      "tarefas": [
+        {
+          "id": "T-005",
+          "titulo": "Testar os contratos HTTP ainda descobertos",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "orders-service/src/test/java/com/appsdeveloperblog/orders/web/controller/OrdersControllerTest.java",
+            "credit-card-processor-service/pom.xml",
+            "credit-card-processor-service/src/test/java/com/appsdeveloperblog/ccps/web/controller/CreditCardProcessorControllerTest.java"
+          ],
+          "refs": [
+            "US-005",
+            "AC-008",
+            "AC-009",
+            "AC-010"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-2",
+      "branch": "spec/testes-documentacao-operacional-faixa-2",
+      "worktree": "../onp-worktrees/event-driven-spring-boot-testes-documentacao-operacional-faixa-2",
+      "tarefas": [
+        {
+          "id": "T-006",
+          "titulo": "Testar os handlers de produto e pagamento",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "high",
+          "arquivos": [
+            "products-service/src/test/java/com/appsdeveloperblog/products/service/handler/ProductCommandsHandlerTest.java",
+            "payments-service/src/test/java/com/appsdeveloperblog/payments/service/handler/PaymentsCommandsHandlerTest.java"
+          ],
+          "refs": [
+            "US-006",
+            "AC-011",
+            "AC-012",
+            "AC-013"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faixa-3",
+      "branch": "spec/testes-documentacao-operacional-faixa-3",
+      "worktree": "../onp-worktrees/event-driven-spring-boot-testes-documentacao-operacional-faixa-3",
+      "tarefas": [
+        {
+          "id": "T-007",
+          "titulo": "Criar guia operacional e relatórios de cobertura",
+          "modelo": "gpt-5.6-terra",
+          "esforco": "medium",
+          "arquivos": [
+            "README.md",
+            "pom.xml",
+            ".github/workflows/ci.yml",
+            "core/src/test/java/com/appsdeveloperblog/core/DocumentationCompletenessTest.java",
+            "core/src/test/java/com/appsdeveloperblog/core/BuildQualityConfigurationTest.java",
+            "onpspec.config.json"
+          ],
+          "refs": [
+            "US-007",
+            "AC-014",
+            "AC-015"
+          ]
+        }
+      ]
+    }
+  ],
+  "sequenciais": [],
+  "concluidas": [],
+  "avisos": []
+}
