@@ -1,0 +1,52 @@
+{
+  "feature": "testes-documentacao-operacional",
+  "timestamp": "2026-08-25T02:02:47.653Z",
+  "gitRev": "ff80770",
+  "command": "mvnw.cmd -q verify",
+  "reporter": "exitcode",
+  "exitCode": 0,
+  "testsParsed": 0,
+  "results": {
+    "AC-008": {
+      "status": "pass",
+      "testName": null,
+      "method": "exitcode"
+    },
+    "AC-009": {
+      "status": "pass",
+      "testName": null,
+      "method": "exitcode"
+    },
+    "AC-010": {
+      "status": "pass",
+      "testName": null,
+      "method": "exitcode"
+    },
+    "AC-011": {
+      "status": "pass",
+      "testName": null,
+      "method": "exitcode"
+    },
+    "AC-012": {
+      "status": "pass",
+      "testName": null,
+      "method": "exitcode"
+    },
+    "AC-013": {
+      "status": "pass",
+      "testName": null,
+      "method": "exitcode"
+    },
+    "AC-014": {
+      "status": "pass",
+      "testName": null,
+      "method": "exitcode"
+    },
+    "AC-015": {
+      "status": "pass",
+      "testName": null,
+      "method": "exitcode"
+    }
+  },
+  "principles": {}
+}

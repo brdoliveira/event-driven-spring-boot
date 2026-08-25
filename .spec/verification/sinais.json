@@ -671,64 +671,64 @@
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-001",
-      "ocorrencias": 6,
+      "ocorrencias": 7,
       "primeiraVez": "2026-08-24T23:15:02.081Z",
-      "ultimaVez": "2026-08-25T00:43:56.911Z",
-      "gitRev": "ef0d7a5"
+      "ultimaVez": "2026-08-25T01:07:24.068Z",
+      "gitRev": "e11324e"
     },
     "PROVA_FRACA::production-readiness::AC-002": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-002",
-      "ocorrencias": 6,
+      "ocorrencias": 7,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-25T00:43:56.912Z",
-      "gitRev": "ef0d7a5"
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
     },
     "PROVA_FRACA::production-readiness::AC-003": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-003",
-      "ocorrencias": 6,
+      "ocorrencias": 7,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-25T00:43:56.912Z",
-      "gitRev": "ef0d7a5"
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
     },
     "PROVA_FRACA::production-readiness::AC-004": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-004",
-      "ocorrencias": 6,
+      "ocorrencias": 7,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-25T00:43:56.912Z",
-      "gitRev": "ef0d7a5"
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
     },
     "PROVA_FRACA::production-readiness::AC-005": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-005",
-      "ocorrencias": 6,
+      "ocorrencias": 7,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-25T00:43:56.912Z",
-      "gitRev": "ef0d7a5"
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
     },
     "PROVA_FRACA::production-readiness::AC-006": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-006",
-      "ocorrencias": 6,
+      "ocorrencias": 7,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-25T00:43:56.912Z",
-      "gitRev": "ef0d7a5"
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
     },
     "PROVA_FRACA::production-readiness::AC-007": {
       "codigo": "PROVA_FRACA",
       "feature": "production-readiness",
       "ref": "AC-007",
-      "ocorrencias": 6,
+      "ocorrencias": 7,
       "primeiraVez": "2026-08-24T23:15:02.082Z",
-      "ultimaVez": "2026-08-25T00:43:56.912Z",
-      "gitRev": "ef0d7a5"
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
     },
     "VERIFY_OBSOLETO::production-readiness::—": {
       "codigo": "VERIFY_OBSOLETO",
@@ -738,6 +738,105 @@
       "primeiraVez": "2026-08-24T23:15:22.555Z",
       "ultimaVez": "2026-08-24T23:37:02.156Z",
       "gitRev": "ef0d7a5"
+    },
+    "ARQUIVO_INEXISTENTE::testes-documentacao-operacional::T-005": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "T-005",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "ARQUIVO_INEXISTENTE::testes-documentacao-operacional::T-006": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "T-006",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "ARQUIVO_INEXISTENTE::testes-documentacao-operacional::T-007": {
+      "codigo": "ARQUIVO_INEXISTENTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "T-007",
+      "ocorrencias": 2,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "AC_SEM_TESTE::testes-documentacao-operacional::AC-008": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "AC-008",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "AC_SEM_TESTE::testes-documentacao-operacional::AC-009": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "AC-009",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "AC_SEM_TESTE::testes-documentacao-operacional::AC-010": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "AC-010",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "AC_SEM_TESTE::testes-documentacao-operacional::AC-011": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "AC-011",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "AC_SEM_TESTE::testes-documentacao-operacional::AC-012": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "AC-012",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "AC_SEM_TESTE::testes-documentacao-operacional::AC-013": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "AC-013",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "AC_SEM_TESTE::testes-documentacao-operacional::AC-014": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "AC-014",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
+    },
+    "AC_SEM_TESTE::testes-documentacao-operacional::AC-015": {
+      "codigo": "AC_SEM_TESTE",
+      "feature": "testes-documentacao-operacional",
+      "ref": "AC-015",
+      "ocorrencias": 1,
+      "primeiraVez": "2026-08-25T01:07:24.069Z",
+      "ultimaVez": "2026-08-25T01:07:24.069Z",
+      "gitRev": "e11324e"
     }
   }
 }
